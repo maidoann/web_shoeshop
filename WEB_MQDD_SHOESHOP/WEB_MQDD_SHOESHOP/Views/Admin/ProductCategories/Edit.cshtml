@@ -1,0 +1,39 @@
+﻿@model WEB_MQDD_SHOESHOP.Models.ProductCategory
+
+@{
+    ViewData["Title"] = "Sửa Thể loại";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">Sửa Thể loại</div>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                    <div class="row">
+                        <!-- Cột trái -->
+                        <div class="col-md-6">
+                            <div class="form-group form-inline">
+                                <input type="hidden" name="page" value="@ViewBag.CurrentPage" />
+                                <label asp-for="Name" class="col-md-3 col-form-label">Tên Thể loại</label>
+                                <div class="col-md-9 p-0">
+                                    <input type="text" class="form-control input-full" asp-for="Name" placeholder="Tên Thể loại" required data-val="true" data-val-required="Tên Thể loại" />
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Sửa</button>
+                            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+                        </div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,206 @@
+﻿@model WEB_MQDD_SHOESHOP.Models.Product
+
+@{
+    ViewData["Title"] = "Sửa sản phẩm";
+    var productDetail = Model.ProductDetails.FirstOrDefault() ?? new ProductDetail { ProductId = Model.Id, Price = 0, Qty = 0, Color = "", Size = "" };
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            <div class="card-header">
+                <div class="card-title">Sửa sản phẩm</div>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                    <!-- Hidden input cho Product Id -->
+                    <input type="hidden" asp-for="Id" />
+                    <input type="hidden" name="page" value="@ViewBag.CurrentPage" />
+
+                    <div class="row">
+                        <!-- Cột trái -->
+                        <div class="col-md-6">
+                            <div class="form-group form-inline">
+                                <label asp-for="Name" class="col-md-3 col-form-label">Tên sản phẩm</label>
+                                <div class="col-md-9 p-0">
+                                    <input type="text" class="form-control input-full" asp-for="Name" placeholder="Tên sản phẩm" required data-val="true" data-val-required="Tên sản phẩm không không được để trống" />
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ProductCategoryId" class="col-form-label">Thể loại </label>
+                                <select class="form-select form-control" asp-for="ProductCategoryId" asp-items="ViewBag.Category" required>
+                                </select>
+                                <span asp-validation-for="ProductCategoryId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="BrandId" class="col-form-label">Hãng sản phẩm</label>
+                                <select class="form-select form-control" asp-for="BrandId" asp-items="ViewBag.Brand" required>
+                                </select>
+                                <span asp-validation-for="BrandId" class="text-danger"></span>
+                            </div>
+                            <div class="form-group form-inline">
+                                <label asp-for="Content" class="col-md-3 col-form-label">Tiêu đề sản phẩm</label>
+                                <div class="col-md-9 p-0">
+                                    <textarea class="form-control" asp-for="Content" rows="5" placeholder="Tiêu đề" required data-val="true" data-val-required="Tiêu đề không được để trống"></textarea>
+                                    <span asp-validation-for="Content" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group form-inline">
+                                <label asp-for="Description" class="col-md-3 col-form-label">Mô tả sản phẩm</label>
+                                <div class="col-md-9 p-0">
+                                    <textarea class="form-control" asp-for="Description" rows="5" placeholder="Mô tả" required data-val="true" data-val-required="Mô tả tồn kho không được để trống"></textarea>
+                                    <span asp-validation-for="Description" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="form-group form-inline">
+                                <label asp-for="Tag" class="col-md-3 col-form-label">Tag</label>
+                                <div class="col-md-9 p-0">
+                                    <input type="text" class="form-control input-full" asp-for="Tag" placeholder="Tag" required data-val="true" data-val-required="Tag tồn kho không được để trống" />
+                                    <span asp-validation-for="Tag" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Cột phải -->
+                        <div class="col-md-6">
+                            <div class="form-group form-inline">
+                                <label class="col-md-3 col-form-label">Giá tiền</label>
+                                <div class="col-md-9 p-0">
+                                    <input type="number" class="form-control input-full" name="Price" value="@productDetail.Price.ToString("F0")" placeholder="Giá tiền" required data-val="true" data-val-required="Giá tiền không được để trống" data-val-number="Giá tiền phải là số" />
+                                    <span class="text-danger" data-valmsg-for="Price" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="form-group form-inline">
+                                <label class="col-md-3 col-form-label">Số lượng tồn kho</label>
+                                <div class="col-md-9 p-0">
+                                    <input type="number" class="form-control input-full" name="StockQuantity" value="@productDetail.Qty" placeholder="Số lượng tồn kho" required data-val="true" data-val-required="Số lượng tồn kho không được để trống" data-val-range="Số lượng tồn kho phải từ 0 trở lên" data-val-range-min="0" />
+                                    <span class="text-danger" data-valmsg-for="StockQuantity" data-valmsg-replace="true"></span>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Màu sắc</label>
+                                <div class="row gutters-xs">
+                                    @{
+                                        var selectedColors = productDetail.Color?.Split(',') ?? new string[0];
+                                    }
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="dark" class="colorinput-input" @(selectedColors.Contains("dark") ? "checked" : "") required data-val="true" data-val-required="Ít nhất một màu sắc phải được chọn" />
+                                            <span class="colorinput-color bg-black"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="blue" class="colorinput-input" @(selectedColors.Contains("blue") ? "checked" : "") />
+                                            <span class="colorinput-color bg-primary"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="white" class="colorinput-input" @(selectedColors.Contains("white") ? "checked" : "") />
+                                            <span class="colorinput-color" style="background-color: #ffffff; border: 1px solid #ccc;"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="pink" class="colorinput-input" @(selectedColors.Contains("pink") ? "checked" : "") />
+                                            <span class="colorinput-color" style="background-color: #ff69b4;"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="gray" class="colorinput-input" @(selectedColors.Contains("gray") ? "checked" : "") />
+                                            <span class="colorinput-color bg-secondary"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="black" class="colorinput-input" @(selectedColors.Contains("black") ? "checked" : "") />
+                                            <span class="colorinput-color bg-dark"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="brown" class="colorinput-input" @(selectedColors.Contains("brown") ? "checked" : "") />
+                                            <span class="colorinput-color" style="background-color: #8b4513;"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="purple" class="colorinput-input" @(selectedColors.Contains("purple") ? "checked" : "") />
+                                            <span class="colorinput-color" style="background-color: #800080;"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="green" class="colorinput-input" @(selectedColors.Contains("green") ? "checked" : "") />
+                                            <span class="colorinput-color bg-success"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="red" class="colorinput-input" @(selectedColors.Contains("red") ? "checked" : "") />
+                                            <span class="colorinput-color bg-danger"></span>
+                                        </label>
+                                    </div>
+                                    <div class="col-auto">
+                                        <label class="colorinput">
+                                            <input name="Colors" type="checkbox" value="yellow" class="colorinput-input" @(selectedColors.Contains("yellow") ? "checked" : "") />
+                                            <span class="colorinput-color bg-warning"></span>
+                                        </label>
+                                    </div>
+                                </div>
+                                <span class="text-danger" data-valmsg-for="Colors" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Size</label>
+                                <div class="selectgroup w-100">
+                                    @{
+                                        var selectedSizes = productDetail.Size?.Split(',') ?? new string[0];
+                                    }
+                                    @for (int size = 36; size <= 44; size++)
+                                    {
+                                        <label class="selectgroup-item">
+                                            <input type="checkbox" name="Sizes" value="@size" class="selectgroup-input" @(selectedSizes.Contains(size.ToString()) ? "checked" : "") required data-val="true" data-val-required="Ít nhất một size phải được chọn" />
+                                            <span class="selectgroup-button">@size</span>
+                                        </label>
+                                    }
+                                </div>
+                                <span class="text-danger" data-valmsg-for="Sizes" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Ảnh hiện tại</label>
+                                @foreach (var image in Model.ProductImages ?? new List<ProductImage>())
+                                {
+                                    <div class="mt-2" style="display: flex; align-items: center;">
+                                        <img src="@image.Path" alt="Current Image" style="width: 100px; margin-right: 10px;" />
+                                        <label>
+                                            <input type="checkbox" name="RemoveImageIds" value="@image.Id" /> Xóa ảnh này
+                                        </label>
+                                    </div>
+                                }
+                                <label class="form-label mt-3">Thêm ảnh mới</label>
+                                <input type="file" class="form-control-file" name="ImageUrls" multiple />
+                                <div class="form-check mt-2">
+                                    <input type="checkbox" name="RemoveAllImages" value="true" /> Xóa tất cả ảnh
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="text-danger">
+                                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                </div>
+                                <button type="submit" class="btn btn-primary">Lưu</button>
+                                <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

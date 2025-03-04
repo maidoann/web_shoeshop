@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WEB_MQDD_SHOESHOP
+build_property.RootNamespace = WEB_MQDD_SHOESHOP
+build_property.ProjectDir = C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Brands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQnJhbmRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/ProductCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdENhdGVnb3JpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/ProductCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdENhdGVnb3JpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/ProductCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdENhdGVnb3JpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Products/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHNcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Admin/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/maido/OneDrive/Máy tính/MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/WEB_MQDD_SHOESHOP/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ixn5hcdvh2

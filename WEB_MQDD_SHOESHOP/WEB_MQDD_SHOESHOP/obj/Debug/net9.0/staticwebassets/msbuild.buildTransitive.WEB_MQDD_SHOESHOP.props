@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEB_MQDD_SHOESHOP.props" />
+</Project>

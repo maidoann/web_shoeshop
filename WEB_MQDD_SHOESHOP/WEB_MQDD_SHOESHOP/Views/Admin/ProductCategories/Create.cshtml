@@ -1,0 +1,122 @@
+﻿@model WEB_MQDD_SHOESHOP.Models.Product
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header">
+            <h4>Sửa Sản Phẩm Giày</h4>
+        </div>
+        <div class="card-body">
+            <form asp-action="Edit" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" name="page" value="@ViewBag.CurrentPage" />
+
+                <!-- Tên sản phẩm -->
+                <div class="form-group">
+                    <label asp-for="Name" class="form-label">Tên Sản Phẩm</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Brand -->
+                <div class="form-group">
+                    <label class="form-label">Thương hiệu</label>
+                    <select asp-for="BrandId" class="form-control" asp-items="ViewBag.Brand"></select>
+                    <span asp-validation-for="BrandId" class="text-danger"></span>
+                </div>
+
+                <!-- Category -->
+                <div class="form-group">
+                    <label class="form-label">Danh mục</label>
+                    <select asp-for="ProductCategoryId" class="form-control" asp-items="ViewBag.Category"></select>
+                    <span asp-validation-for="ProductCategoryId" class="text-danger"></span>
+                </div>
+
+                <!-- Size (36-44) -->
+                <div class="form-group">
+                    <label class="form-label">Size</label>
+                    <div class="selectgroup w-100">
+                        @{
+                            var currentSizes = Model.ProductDetails?.FirstOrDefault()?.Size?.Split(',') ?? Array.Empty<string>();
+                        }
+                        @for (int size = 36; size <= 44; size++)
+                        {
+                            <label class="selectgroup-item">
+                                <input type="checkbox" name="Sizes" value="@size" class="selectgroup-input" @(currentSizes.Contains(size.ToString()) ? "checked" : "") />
+                                <span class="selectgroup-button">@size</span>
+                            </label>
+                        }
+                    </div>
+                    <span class="text-danger" data-valmsg-for="Sizes" data-valmsg-replace="true"></span>
+                </div>
+
+                <!-- Color -->
+                <div class="form-group">
+                    <label class="form-label">Màu sắc</label>
+                    <div class="selectgroup w-100">
+                        @{
+                            var currentColors = Model.ProductDetails?.FirstOrDefault()?.Color?.Split(',') ?? Array.Empty<string>();
+                        }
+                        <label class="selectgroup-item">
+                            <input type="checkbox" name="Colors" value="Red" class="selectgroup-input" @(currentColors.Contains("Red") ? "checked" : "") />
+                            <span class="selectgroup-button">Đỏ</span>
+                        </label>
+                        <label class="selectgroup-item">
+                            <input type="checkbox" name="Colors" value="Blue" class="selectgroup-input" @(currentColors.Contains("Blue") ? "checked" : "") />
+                            <span class="selectgroup-button">Xanh</span>
+                        </label>
+                        <label class="selectgroup-item">
+                            <input type="checkbox" name="Colors" value="Black" class="selectgroup-input" @(currentColors.Contains("Black") ? "checked" : "") />
+                            <span class="selectgroup-button">Đen</span>
+                        </label>
+                        <label class="selectgroup-item">
+                            <input type="checkbox" name="Colors" value="White" class="selectgroup-input" @(currentColors.Contains("White") ? "checked" : "") />
+                            <span class="selectgroup-button">Trắng</span>
+                        </label>
+                    </div>
+                    <span class="text-danger" data-valmsg-for="Colors" data-valmsg-replace="true"></span>
+                </div>
+
+                <!-- Giá -->
+                <div class="form-group">
+                    <label class="form-label">Giá</label>
+                    <input type="number" name="Price" class="form-control" step="0.01" value="@(Model.ProductDetails?.FirstOrDefault()?.Price ?? 0)" required />
+                    <span class="text-danger" data-valmsg-for="Price" data-valmsg-replace="true"></span>
+                </div>
+
+                <!-- Số lượng -->
+                <div class="form-group">
+                    <label class="form-label">Số lượng</label>
+                    <input type="number" name="StockQuantity" class="form-control" value="@(Model.ProductDetails?.FirstOrDefault()?.Qty ?? 0)" required />
+                    <span class="text-danger" data-valmsg-for="StockQuantity" data-valmsg-replace="true"></span>
+                </div>
+
+                <!-- Ảnh -->
+                <div class="form-group">
+                    <label class="form-label">Ảnh sản phẩm hiện tại</label>
+                    @if (Model.ProductImages != null && Model.ProductImages.Any())
+                    {
+                        foreach (var image in Model.ProductImages)
+                        {
+                            <div>
+                                <img src="@image.Path" style="max-width: 100px;" />
+                                <input type="checkbox" name="RemoveImageIds" value="@image.Id" /> Xóa ảnh này
+                            </div>
+                        }
+                    }
+                    <label class="form-label">Thêm ảnh mới</label>
+                    <input type="file" name="ImageUrls" class="form-control" multiple />
+                </div>
+
+                <!-- Nút hành động -->
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Lưu</button>
+                    <a asp-action="Index" asp-route-page="@ViewBag.CurrentPage" class="btn btn-secondary">Quay lại</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

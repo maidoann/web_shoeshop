@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\productcategories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\productcategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\productcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\productcategories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\views\\admin\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\views\\admin\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|c:\\users\\maido\\onedrive\\m\u00E1y t\u00EDnh\\mqdd_shoeshop\\web_mqdd_shoeshop\\web_mqdd_shoeshop\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}|WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj|solutionrelative:web_mqdd_shoeshop\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Detail.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:38:20.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAYwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:38:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Create.cshtml*",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Create.cshtml*",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:37:58.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:36:30.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:30:02.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Edit.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:30:06.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Create.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:25:31.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Controllers\\ProductCategoriesController.cs",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Controllers\\ProductCategoriesController.cs",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Controllers\\ProductCategoriesController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAhwGAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:19:32.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAgwCYBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:19:31.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Index.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\Brands\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:18:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Create.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:17:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maido\\OneDrive\\M\u00E1y t\u00EDnh\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Index.cshtml",
+              "RelativeToolTip": "WEB_MQDD_SHOESHOP\\Views\\Admin\\ProductCategories\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T16:17:00.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

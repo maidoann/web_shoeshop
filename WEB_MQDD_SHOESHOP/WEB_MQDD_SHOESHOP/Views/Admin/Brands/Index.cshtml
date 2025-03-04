@@ -1,0 +1,106 @@
+﻿@model WEB_MQDD_SHOESHOP.Models.PaginatedList<WEB_MQDD_SHOESHOP.Models.Brand>
+@{
+    ViewData["Title"] = "View";
+}
+
+<div class="col-md-12">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <a asp-action="Create" asp-route-page="@Model.CurrentPage" class="btn btn-primary btn-round ms-auto">
+                    <i class="fa fa-plus"></i>
+                    Thêm Sản Phẩm mới
+                </a>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="add-row" class="display table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Tên Hãng</th>
+                            <th style="width: 10%">Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null && Model.Items != null)
+                        {
+                            @foreach (var item in Model.Items)
+                            {
+                                <tr>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        <div class="form-button-action">
+                                            <a asp-action="Edit" asp-route-id="@item.Id" asp-route-page="@Model.CurrentPage" class="btn btn-link">Sửa</a>
+                                            <a asp-action="Details" asp-route-id="@item.Id" asp-route-page="@Model.CurrentPage" class="btn btn-link">Chi tiết</a>
+                                            <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline;" class="delete-form">
+                                                <input type="hidden" name="id" value="@item.Id" />
+                                                <input type="hidden" name="page" value="@Model.CurrentPage" />
+
+                                                <button type="submit" class="btn btn-link btn-danger delete-btn" data-name="@item.Name">Xóa</button>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Phân trang -->
+            <ul class="pagination justify-content-end">
+                <li class="paginate_button page-item previous @(Model.HasPreviousPage ? "" : "disabled")" id="add-row_previous">
+                    <a asp-action="Index" asp-route-page="@(Model.CurrentPage - 1)" aria-controls="add-row" data-dt-idx="0" tabindex="0"
+                       class="page-link @(Model.HasPreviousPage ? "" : "disabled")">
+                        Trang Trước
+                    </a>
+                </li>
+                @for (int i = 1; i <= Model.TotalPages; i++)
+                {
+                    <li class="paginate_button page-item @(i == Model.CurrentPage ? "active" : "")">
+                        <a asp-action="Index" asp-route-page="@i" aria-controls="add-row" data-dt-idx="@i" tabindex="0" class="page-link">
+                            @i
+                        </a>
+                    </li>
+                }
+                <li class="paginate_button page-item next @(Model.HasNextPage ? "" : "disabled")" id="add-row_next">
+                    <a asp-action="Index" asp-route-page="@(Model.CurrentPage + 1)" aria-controls="add-row" data-dt-idx="@(Model.TotalPages + 1)" tabindex="0"
+                       class="page-link @(Model.HasNextPage ? "" : "disabled")">
+                        Trang sau
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        $(document).ready(function () {
+            $('.delete-form').on('submit', function (e) {
+                e.preventDefault(); // Ngăn form submit ngay lập tức
+                var form = $(this);
+                var productName = form.find('.delete-btn').data('name');
+
+                Swal.fire({
+                    title: "Bạn có chắc chắn không?",
+                    text: "Bạn sẽ không thể khôi phục sản phẩm " + productName + " sau khi xóa!",
+                    icon: "warning",
+                    showCancelButton: true,
+                    confirmButtonText: "Có, xóa nó!",
+                    cancelButtonText: "Không, hủy bỏ!",
+                    confirmButtonColor: "#28a745",
+                    cancelButtonColor: "#dc3545"
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        form.off('submit'); // Tắt sự kiện để tránh vòng lặp
+                        form.submit(); // Gửi form đến DeleteConfirmed
+                    }
+                });
+            });
+        });
+    </script>
+}
