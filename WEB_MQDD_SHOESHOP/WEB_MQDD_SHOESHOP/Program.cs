@@ -9,7 +9,10 @@ var connectionString = builder.Configuration.GetConnectionString("ShoeShopDb");
 // Đăng ký DbContext vào Dependency Injection
 builder.Services.AddDbContext<ShoeShopDbContext>(options =>
     options.UseSqlServer(connectionString));
-
+builder.Services.AddHttpClient("ApiClient", client =>
+{
+    client.BaseAddress = new Uri(builder.Configuration["ApiSettings:HostAddress"]); // http://localhost:5001
+});
 // Thêm dịch vụ MVC
 builder.Services.AddControllersWithViews();
 
@@ -35,10 +38,10 @@ app.MapControllerRoute(
     pattern: "admin/{controller=Home}/{action=Index}/{id?}");
 
 
-//app.MapControllerRoute(
-//    name: "default",
-//    pattern: "{controller=Home}/{action=Index}/{id?}")
-//    .WithStaticAssets();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}")
+    .WithStaticAssets();
 
 
 app.Run();

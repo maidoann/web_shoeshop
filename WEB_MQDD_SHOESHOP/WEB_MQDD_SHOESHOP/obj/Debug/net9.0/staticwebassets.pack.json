@@ -1617,6 +1617,2394 @@
       "PackagePath": "staticwebassets\\assets\\js\\setting-demo2.js"
     },
     {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\css\\normalize.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\css\\normalize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\index.html",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\js\\jquery.nav.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shAutoloader.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shAutoloader.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushAS3.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushAS3.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushAppleScript.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushBash.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushBash.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCSharp.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushColdFusion.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCpp.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCpp.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCss.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushCss.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushDelphi.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushDiff.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushDiff.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushErlang.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushErlang.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushGroovy.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJava.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJava.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushJavaFX.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPerl.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPerl.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPhp.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPhp.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPlain.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPlain.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPowerShell.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPython.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushPython.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushRuby.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushRuby.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushSass.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushSass.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushScala.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushScala.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushSql.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushSql.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushVb.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushVb.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shLegacy.js",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\scripts\\shLegacy.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreDefault.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreDjango.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreEclipse.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreEmacs.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreRDark.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shCoreRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeDefault.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeDefault.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeDjango.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeDjango.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeEclipse.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeEclipse.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeEmacs.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeEmacs.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeFadeToGrey.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeMDUltra.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeMidnight.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeMidnight.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeRDark.css",
+      "PackagePath": "staticwebassets\\assets_2\\Aroma Shop-doc\\syntax-highlighter\\styles\\shThemeRDark.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets_2\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets_2\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\Fevicon.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\Fevicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\assets_2\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\blog1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\blog1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\blog2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\blog2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\blog3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\blog3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\cart.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\cart\\cart1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\cart\\cart1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\cart\\cart2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\cart\\cart2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\cart\\cart3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\cart\\cart3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r7.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\gallery\\r8.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\gallery\\r8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-banner4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-slide1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-slide1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-slide2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-slide2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-slide3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-slide3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\hero-slide33.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\hero-slide33.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\home\\parallax-bg.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\home\\parallax-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-01.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-02.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-03.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-04.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-05.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-06.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-07.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\Image-08.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\Image-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\instagram\\ins-6.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\instagram\\ins-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-4.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-4.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-5.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-5.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-6.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-6.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-7.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-7.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-8.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-8.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product-sm-9.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product-sm-9.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product4.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product5.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product6.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product7.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product7.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\product8.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\product8.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\assets_2\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\assets_2\\img\\r9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets_2\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_btn.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_cart.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_category.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_category.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_checkout.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_confirmation.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_confirmation.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_instagram.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_login.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_login.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_register.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_register.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_responsive.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_section-intro.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_section-intro.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_single-product.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_single-product.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_tracking.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_tracking.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets_2\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\contact.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\jquery.form.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\linericon\\style.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\linericon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\mail-script.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\nice-select\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\nice-select\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\nice-select\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\nice-select\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\owl-carousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\owl-carousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\owl-carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\owl-carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\owl-carousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\owl-carousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\skrollr.min.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\skrollr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\Italic.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\Italic.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\agenda.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\agenda.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\alarm-clock.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\alarm-clock.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\alert.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\alert.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\align-center.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\align-justify.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\align-justify.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\align-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\align-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\anchor.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\anchor.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\android.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-double-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\angle-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\angle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\announcement.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\announcement.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\apple.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\archive.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\archive.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-circle-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-top-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-top-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-top-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-top-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrow.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrows-corner.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrows-corner.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrows-horizontal.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrows-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\arrows-vertical.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\arrows-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\back-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\back-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\back-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\back-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bag.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bag.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bar-chart-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bar-chart-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bar-chart.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bar-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\basketball.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\basketball.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bell.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bell.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\blackboard.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\blackboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bolt-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bolt-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bolt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bolt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\book.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\book.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bookmark-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bookmark-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\bookmark.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\briefcase.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\brush-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\brush-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\brush.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\brush.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\calendar.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\camera.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\car.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\car.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\check-box.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\check-box.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\check.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\clip.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\clip.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\clipboard.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\close.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\close.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\cloud-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\cloud-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\cloud-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\cloud-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\cloud.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\comment-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\comment-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\comment.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\comment.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\comments-smiley.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\comments-smiley.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\comments.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\comments.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-backward.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-backward.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-eject.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-eject.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-forward.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-forward.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-pause.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-pause.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-play.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-record.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-record.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-shuffle.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-shuffle.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-skip-backward.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-skip-backward.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-skip-forward.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-skip-forward.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\control-stop.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\control-stop.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\credit-card.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\crown.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\crown.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\css3.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\css3.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\cup.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\cup.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\cut.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\cut.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\dashboard.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\desktop.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\desktop.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\direction-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\direction-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\direction.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\direction.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\download.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\download.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\dribbble.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\dribbble.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\dropbox-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\dropbox-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\dropbox.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\dropbox.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\drupal.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\drupal.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\email.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\envelope.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\envelope.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\eraser.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\eraser.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\exchange-vertical.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\exchange-vertical.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\export.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\export.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\eye.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\eye.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\face-sad.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\face-sad.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\face-smile.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\face-smile.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\file.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\file.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\files.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\files.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\filter.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\filter.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\flag-alt-2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\flag-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\flag-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\flag-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\flag.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\flag.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\flickr-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\flickr-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\flickr.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\flickr.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\folder.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\folder.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\fullscreen.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\gallery.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\gallery.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\game.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\game.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\gift.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\gift.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\github.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\google.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-drag.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-drag.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-open.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-open.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-point-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hand-stop.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hand-stop.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\harddrive.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\harddrive.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\harddrives.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\harddrives.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\headphone-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\headphone-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\headphone.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\heart-broken.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\heart-broken.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\heart.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\help-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\help-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\help.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\help.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\home.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\html5.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\html5.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\hummer.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\hummer.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\id-badge.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\id-badge.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\image.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\image.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\import.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\import.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\infinite.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\infinite.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\info-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\info-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\info.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\info.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ink-pen.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ink-pen.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\joomla.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\joomla.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\jsfiddle.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\jsfiddle.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\key.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\key.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layers-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layers-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layers.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layers.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-list.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-merged.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-merged.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-separated.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-accordion-separated.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column2-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column2-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column3-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column3.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column3.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column4-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column4-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-column4.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-column4.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-btn-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-btn-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-btn-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-btn-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-center.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-cta-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2-thumb.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2-thumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid3-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid3-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid3.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid3.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid4-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid4-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid4.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-grid4.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-line-solid.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-line-solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-large-image.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-large-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-post.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-post.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-thumb-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-thumb-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-thumb.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-list-thumb.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-center-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-center-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-center.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-center.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-left-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-left-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-overlay.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-right-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-right-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-media-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-full.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-separated.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-separated.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-v.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-placeholder.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-none.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-none.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-sidebar-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-slider-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-slider-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-slider.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-slider.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-min.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-min.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-v.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-window.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab-window.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-tab.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-default-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-default-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-default.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-default.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-full.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout-width-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\layout.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\layout.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\light-bulb.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\light-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\line-dashed.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\line-dashed.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\line-dotted.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\line-dotted.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\line-double.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\line-double.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\link.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\link.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\linkedin.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\linkedin.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\linux.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\linux.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\list-ol.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\list-ol.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\list.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\list.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\location-arrow.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\location-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\location-pin.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\location-pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\lock.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\lock.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\loop.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\loop.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\magnet.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\magnet.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\map-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\map-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\map.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\map.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\marker-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\marker-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\marker.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\marker.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\medall-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\medall-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\medall.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\medall.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\menu-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\menu-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\menu.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\microphone-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\microphone-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\microphone.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\microsoft-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\microsoft-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\microsoft.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\minus.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\minus.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\mobile.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\mobile.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\money.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\money.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\more-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\more-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\more.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\more.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\mouse-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\mouse-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\mouse.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\mouse.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\music-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\music-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\music.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\music.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\na.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\na.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\new-window.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\new-window.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\notepad.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\notepad.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\package.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\package.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\paint-bucket.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\paint-bucket.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\paint-roller.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\paint-roller.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\palette.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\palette.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\panel.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\panel.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\paragraph.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\paragraph.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pencil-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pencil-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pencil-alt2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pencil-alt2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pencil.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pin-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pin-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pin.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pin.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pin2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pin2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pinterest-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pinterest-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pinterest.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\plug.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\plug.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\plus.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\power-off.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\power-off.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\printer.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\printer.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\pulse.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\pulse.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\quote-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\quote-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\quote-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\quote-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\receipt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\reddit.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\reddit.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\reload.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\reload.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\rocket.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\rss-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\rss-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\rss.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\rss.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ruler-alt-2.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ruler-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ruler-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ruler-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ruler-pencil.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ruler-pencil.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ruler.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ruler.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\save-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\save-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\save.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\save.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\search.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\server.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\server.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\settings.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\settings.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\share-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\share-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\share.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\share.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\sharethis-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\sharethis-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\sharethis.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\sharethis.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shield.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shield.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shift-left-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shift-left-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shift-left.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shift-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shift-right-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shift-right-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shift-right.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shift-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shine.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shine.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shopping-cart-full.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shopping-cart-full.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shopping-cart.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shopping-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\shortcode.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\shortcode.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\signal.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\signal.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\skype.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\skype.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\slice.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\slice.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\smallcap.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\smallcap.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\soundcloud.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\soundcloud.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\split-h.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\split-h.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\split-v-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\split-v-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\split-v.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\split-v.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\spray.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\spray.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\stack-overflow.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\stack-overflow.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\stamp.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\stamp.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\star.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\stats-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\stats-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\stats-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\stats-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\support.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\support.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\tablet.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\tag.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\tag.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\target.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\target.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\text.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\text.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\themify-favicon-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\themify-favicon-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\themify-favicon.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\themify-favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\themify-logo.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\themify-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\thought.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\thought.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\thumb-down.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\thumb-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\thumb-up.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\thumb-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\ticket.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\ticket.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\time.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\time.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\timer.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\timer.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\trash.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\trash.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\trello.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\trello.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\truck.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\tumblr-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\tumblr-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\tumblr.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\tumblr.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\twitter-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\twitter-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\twitter.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\underline.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\underline.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\unlink.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\unlink.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\unlock.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\upload.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\upload.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\uppercase.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\uppercase.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\user.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\vector.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\video-camera.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\video-camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\video-clapper.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\video-clapper.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\view-grid.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\view-grid.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\view-list-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\view-list-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\view-list.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\view-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\vimeo-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\vimeo-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\vimeo.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\vimeo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\volume.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\volume.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\wallet.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\wand.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\wand.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\wheelchair.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\wheelchair.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\widget-alt.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\widget-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\widget.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\widget.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\widgetized.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\widgetized.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\window.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\window.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\wordpress.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\wordpress.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\world.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\world.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\write.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\write.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\yahoo.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\yahoo.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\youtube.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\zip.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\zip.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\SVG\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\SVG\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\Themify IconFonts 5-23-2014.json",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\Themify IconFonts 5-23-2014.json"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\ie7\\ie7.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\ie7\\ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\ie7\\ie7.js",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\ie7\\ie7.js"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\index.html",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\readme.txt",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\assets_2\\vendors\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\assets_2\\vendors\\themify-icons\\themify-icons.css"
+    },
+    {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -1625,52 +4013,72 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\1d34ea44-0580-4020-bc79-b3dcb5ff3f9d_anime-girl-cityscape-short-hair-4k-wallpaper-uhdpaper.com-220@3@a.jpg",
-      "PackagePath": "staticwebassets\\images\\1d34ea44-0580-4020-bc79-b3dcb5ff3f9d_anime-girl-cityscape-short-hair-4k-wallpaper-uhdpaper.com-220@3@a.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\0bd3d9bc-1d5b-491b-9533-8572cfcda89c_z4770526330081_e13fd722d0de709e5de725cad4bb88e1-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\0bd3d9bc-1d5b-491b-9533-8572cfcda89c_z4770526330081_e13fd722d0de709e5de725cad4bb88e1-2048x2048.jpg"
     },
     {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\25c1e7b2-5049-4d8e-82e1-3074f1f5a720_dope-sukuna-pink-5120x2880-16935.png",
       "PackagePath": "staticwebassets\\images\\25c1e7b2-5049-4d8e-82e1-3074f1f5a720_dope-sukuna-pink-5120x2880-16935.png"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\2d171b6d-5ad7-4e54-ba67-6c18da7f43de_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg",
-      "PackagePath": "staticwebassets\\images\\2d171b6d-5ad7-4e54-ba67-6c18da7f43de_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg"
-    },
-    {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\2e7fd912-f812-4f0c-8e6c-3689d8833db9_snake-animal-digital-art-4k-wallpaper-uhdpaper.com-239@3@a.jpg",
-      "PackagePath": "staticwebassets\\images\\2e7fd912-f812-4f0c-8e6c-3689d8833db9_snake-animal-digital-art-4k-wallpaper-uhdpaper.com-239@3@a.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\2f5d1722-5a85-4e07-8b29-77825a03d687_vans-knu-skool-sorbet-pastel-pink.jpg",
+      "PackagePath": "staticwebassets\\images\\2f5d1722-5a85-4e07-8b29-77825a03d687_vans-knu-skool-sorbet-pastel-pink.jpg"
     },
     {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\4d98bd30-7804-442a-a849-99b809bbe2e5_cat-pilot-4k-wallpaper-uhdpaper.com-675@0@j.jpg",
       "PackagePath": "staticwebassets\\images\\4d98bd30-7804-442a-a849-99b809bbe2e5_cat-pilot-4k-wallpaper-uhdpaper.com-675@0@j.jpg"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\69a25dfd-e518-40ff-9dc0-f7a6079e2118_cat-cute-bow-tie-uhdpaper.com-4K-8.1491.jpg",
-      "PackagePath": "staticwebassets\\images\\69a25dfd-e518-40ff-9dc0-f7a6079e2118_cat-cute-bow-tie-uhdpaper.com-4K-8.1491.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\7089d049-fba5-4b86-9a24-df7c2d9f0a50_z5244270699043_594b5bdf953c53f4d63930a7be9affb0-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\7089d049-fba5-4b86-9a24-df7c2d9f0a50_z5244270699043_594b5bdf953c53f4d63930a7be9affb0-2048x2048.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\73f48606-3a00-4dd1-b45b-48c26640d528_z4770526697736_4194c8eb6d624f6da7027ea41bc88e71-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\73f48606-3a00-4dd1-b45b-48c26640d528_z4770526697736_4194c8eb6d624f6da7027ea41bc88e71-2048x2048.jpg"
     },
     {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\7c357e68-c4d6-403a-b03f-a19a2942922c_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg",
       "PackagePath": "staticwebassets\\images\\7c357e68-c4d6-403a-b03f-a19a2942922c_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\7c65521e-3b9c-4207-a92e-c9198b43afc2_cute-cuddling-birds-4k-wallpaper-uhdpaper.com-767@0@g.jpg",
-      "PackagePath": "staticwebassets\\images\\7c65521e-3b9c-4207-a92e-c9198b43afc2_cute-cuddling-birds-4k-wallpaper-uhdpaper.com-767@0@g.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\83f3d83b-be1e-4c36-a993-37b6248bf0fc_vans-knu-skool-denim-black-1.jpg",
+      "PackagePath": "staticwebassets\\images\\83f3d83b-be1e-4c36-a993-37b6248bf0fc_vans-knu-skool-denim-black-1.jpg"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\89ed2974-46ca-41b1-ada7-6c395ada412f_anime-girl-relaxing-6700x3559-9250.jpg",
-      "PackagePath": "staticwebassets\\images\\89ed2974-46ca-41b1-ada7-6c395ada412f_anime-girl-relaxing-6700x3559-9250.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\87b43a03-c4c9-4d8b-bcda-9d485b2ac59a_z4767101611550_10338bb3062313a0a48d561194a22042-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\87b43a03-c4c9-4d8b-bcda-9d485b2ac59a_z4767101611550_10338bb3062313a0a48d561194a22042-2048x2048.jpg"
     },
     {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\900c3d5e-54f4-4314-bfbb-67ea81281a9c_anime-girl-brunette-flowers-4k-wallpaper-uhdpaper.com-228@0@k.jpg",
       "PackagePath": "staticwebassets\\images\\900c3d5e-54f4-4314-bfbb-67ea81281a9c_anime-girl-brunette-flowers-4k-wallpaper-uhdpaper.com-228@0@k.jpg"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\9831414b-7ef7-4a86-907a-2fe74c0f7567_fallow-deer-squirrel-bird-trees-forest-autumn-5k-8k-7087x4724-2414.jpg",
-      "PackagePath": "staticwebassets\\images\\9831414b-7ef7-4a86-907a-2fe74c0f7567_fallow-deer-squirrel-bird-trees-forest-autumn-5k-8k-7087x4724-2414.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\95b5eeb0-7291-4163-83d6-44b75467e4cd_z4766643327932_862168b025eaa874a0f43f0fe04be9e0-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\95b5eeb0-7291-4163-83d6-44b75467e4cd_z4766643327932_862168b025eaa874a0f43f0fe04be9e0-2048x2048.jpg"
     },
     {
-      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\e71943b0-2b50-48a6-81ea-da8c5b1e2145_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg",
-      "PackagePath": "staticwebassets\\images\\e71943b0-2b50-48a6-81ea-da8c5b1e2145_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg"
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\ad6924ab-75c9-4198-8897-dac30947ee38_mlb-chunky-liner-mid-ny-denim-blue.jpg",
+      "PackagePath": "staticwebassets\\images\\ad6924ab-75c9-4198-8897-dac30947ee38_mlb-chunky-liner-mid-ny-denim-blue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\bc66f5bb-bceb-4c8b-bc28-e259ba32dc8f_converse-run-star-trainer-egret-black.jpg",
+      "PackagePath": "staticwebassets\\images\\bc66f5bb-bceb-4c8b-bc28-e259ba32dc8f_converse-run-star-trainer-egret-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\d4839157-540d-473c-8d88-46db7d4b3986_mlb-chunky-liner-denim-mono-sl-new-york-yankees-gold-2.jpg",
+      "PackagePath": "staticwebassets\\images\\d4839157-540d-473c-8d88-46db7d4b3986_mlb-chunky-liner-denim-mono-sl-new-york-yankees-gold-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\d7bb64f8-46a1-44b1-bc1f-e9fcc2ac7d3f_z4770809067278_b3aa042b5d4f9c9eee7fc5e4b450a7f0-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\d7bb64f8-46a1-44b1-bc1f-e9fcc2ac7d3f_z4770809067278_b3aa042b5d4f9c9eee7fc5e4b450a7f0-2048x2048.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\e451add0-0ff0-447d-80eb-02178c17b4d6_converse-chuck-70-x-mas-gingerbread-knit-sock-1.jpg",
+      "PackagePath": "staticwebassets\\images\\e451add0-0ff0-447d-80eb-02178c17b4d6_converse-chuck-70-x-mas-gingerbread-knit-sock-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\f726d71b-c5d0-4618-bd35-cf513b7efcb0_z4766642959621_e2c7605bb53782417850840b604852e4-2048x2048.jpg",
+      "PackagePath": "staticwebassets\\images\\f726d71b-c5d0-4618-bd35-cf513b7efcb0_z4766642959621_e2c7605bb53782417850840b604852e4-2048x2048.jpg"
     },
     {
       "Id": "C:\\Users\\maido\\OneDrive\\Máy tính\\MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP\\wwwroot\\images\\faeba26b-8e7d-4be1-8b84-817b0f5e9bdc_beautiful-anime-girl-blue-eyes-4k-wallpaper-uhdpaper.com-714@0@j.jpg",

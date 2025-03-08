@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_MQDD_SHOESHOP", "WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP.csproj", "{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB_MQDD_SHOESHOP_API", "WEB_MQDD_SHOESHOP_API\WEB_MQDD_SHOESHOP_API.csproj", "{0CC17F34-AF8C-4445-BDC3-658CE4793D62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1E4A6E0-6016-4FF2-8A80-8BD3E18B3069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC17F34-AF8C-4445-BDC3-658CE4793D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC17F34-AF8C-4445-BDC3-658CE4793D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC17F34-AF8C-4445-BDC3-658CE4793D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC17F34-AF8C-4445-BDC3-658CE4793D62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

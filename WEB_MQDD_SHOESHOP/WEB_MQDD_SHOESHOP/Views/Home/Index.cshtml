@@ -1,8 +1,182 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<WEB_MQDD_SHOESHOP.Models.ProductFullViewModel>
+@{
+    Layout = "~/Views/Shared/_HomeLayout.cshtml";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+
+<!-- ================ trending product section start ================= -->
+<section class="section-margin calc-60px">
+    <div class="container">
+        <div class="section-intro pb-60px">
+            <p>Sản phẩm mới nhất</p>
+            <h2>Hàng <span class="section-intro__style">Mới Về</span></h2>
+        </div>
+        <div class="row">
+            @{
+                    foreach (var product in Model)
+                {
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                        <div class="card text-center card-product">
+                            <div class="card-product__img">
+                                <img class="card-img" src="@product.ImagePath" alt="">
+                                <ul class="card-product__imgOverlay">
+                                    <li><button><i class="ti-search"></i></button></li>
+                                    <li><button><i class="ti-shopping-cart"></i></button></li>
+                                    <li><button><i class="ti-heart"></i></button></li>
+                                </ul>
+                            </div>
+                            <div class="card-body">
+                                <p>@product.BrandName</p>
+                                <h4 class="card-product__title"><a href="/Home/ProductDetail/@product.Id">@product.Name</a></h4>
+                                <p class="card-product__price">@(product.Price?.ToString("N0")??"N/A")</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                }
+            }
+
+        </div>
+    </div>
+</section>
+<!-- ================ trending product section end ================= -->
+<!-- ================ offer section start ================= -->
+<section class="offer" id="parallax-1" data-anchor-target="#parallax-1" data-300-top="background-position: 20px 30px" data-top-bottom="background-position: 0 20px">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5">
+                <div class="offer__content text-center">
+                    <h3>Giảm giá tới 50%</h3>
+                    <h4>Sự Kiện Chào Hè</h4>
+                    <p>Mua sắm ngay hôm nay để nhận ưu đãi</p>
+                    <a class="button button--active mt-3 mt-xl-4" href="#">Mua ngay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ offer section end ================= -->
+<!-- ================ Best Selling item  carousel ================= -->
+<section class="section-margin calc-60px">
+    <div class="container">
+        <div class="section-intro pb-60px">
+            <p>Sản phẩm giảm giá</p>
+            <h2>Best <span class="section-intro__style">Sellers</span></h2>
+        </div>
+        <div class="owl-carousel owl-theme" id="bestSellerCarousel">
+            @{
+                foreach (var product in Model)
+                {
+                    <div class="card text-center card-product">
+                        <div class="card-product__img">
+                            <img class="img-fluid" src="@product.ImagePath" alt="">
+                            <ul class="card-product__imgOverlay">
+                                <li><button><i class="ti-search"></i></button></li>
+                                <li><button><i class="ti-shopping-cart"></i></button></li>
+                                <li><button><i class="ti-heart"></i></button></li>
+                            </ul>
+                        </div>
+                        <div class="card-body">
+                            <p>@product.BrandName</p>
+                            <h4 class="card-product__title"><a href="/Home/ProductDetail/@product.Id">@product.Name</a></h4>
+                            <p class="card-product__price">@(product.Price?.ToString("N0") ?? "N/A")</p>
+                        </div>
+                    </div>
+                }
+                
+            }
+            
+
+        </div>
+    </div>
+</section>
+<!-- ================ Best Selling item  carousel end ================= -->
+<!-- ================ Blog section start ================= -->
+<section class="blog">
+    <div class="container">
+        <div class="section-intro pb-60px">
+            <p>Popular Item in the market</p>
+            <h2>Latest <span class="section-intro__style">News</span></h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                <div class="card card-blog">
+                    <div class="card-blog__img">
+                        <img class="card-img rounded-0" src="img/blog/blog1.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <ul class="card-blog__info">
+                            <li><a href="#">By Admin</a></li>
+                            <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                        </ul>
+                        <h4 class="card-blog__title"><a href="single-blog.html">The Richland Center Shooping News and weekly shooper</a></h4>
+                        <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
+                        <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                <div class="card card-blog">
+                    <div class="card-blog__img">
+                        <img class="card-img rounded-0" src="img/blog/blog2.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <ul class="card-blog__info">
+                            <li><a href="#">By Admin</a></li>
+                            <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                        </ul>
+                        <h4 class="card-blog__title"><a href="single-blog.html">The Shopping News also offers top-quality printing services</a></h4>
+                        <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
+                        <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+                <div class="card card-blog">
+                    <div class="card-blog__img">
+                        <img class="card-img rounded-0" src="img/blog/blog3.png" alt="">
+                    </div>
+                    <div class="card-body">
+                        <ul class="card-blog__info">
+                            <li><a href="#">By Admin</a></li>
+                            <li><a href="#"><i class="ti-comments-smiley"></i> 2 Comments</a></li>
+                        </ul>
+                        <h4 class="card-blog__title"><a href="single-blog.html">Professional design staff and efficient equipment you’ll find we offer</a></h4>
+                        <p>Let one fifth i bring fly to divided face for bearing divide unto seed. Winged divided light Forth.</p>
+                        <a class="card-blog__link" href="#">Read More <i class="ti-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ Blog section end ================= -->
+<!-- ================ Subscribe section start ================= -->
+<section class="subscribe-position">
+    <div class="container">
+        <div class="subscribe text-center">
+            <h3 class="subscribe__title">Get Update From Anywhere</h3>
+            <p>Bearing Void gathering light light his eavening unto dont afraid</p>
+            <div id="mc_embed_signup">
+                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe-form form-inline mt-5 pt-1">
+                    <div class="form-group ml-sm-auto">
+                        <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Enter your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '">
+                        <div class="info"></div>
+                    </div>
+                    <button class="button button-subscribe mr-auto mb-1" type="submit">Subscribe Now</button>
+                    <div style="position: absolute; left: -5000px;">
+                        <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+                    </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- ================ Subscribe section end ================= --> 

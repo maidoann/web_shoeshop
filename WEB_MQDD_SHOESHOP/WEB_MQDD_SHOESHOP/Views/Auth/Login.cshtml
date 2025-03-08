@@ -1,0 +1,63 @@
+﻿@{
+	Layout = "~/Views/Shared/_CustomerLayout.cshtml";
+}
+<!--================Login Box Area =================-->
+<section class="login_box_area section-margin">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-6">
+				<div class="login_box_img">
+					<img src="~/assets_2/img/home/hero-banner4.jpg" alt="Login Background" class="img-cover" />
+					
+					<div class="hover loginn">
+						<h4>Bạn chưa có tài khoản</h4>
+						<a class="button button-account" href="/Auth/Register">Tạo tài khoản</a>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6">
+				<div class="login_form_inner">
+					<h3>Đăng nhập</h3>
+					<form class="row login_form" action="#/" id="contactForm">
+						<div class="col-md-12 form-group">
+							<input type="text" class="form-control" id="name" name="name" placeholder="Username" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Username'">
+						</div>
+						<div class="col-md-12 form-group">
+							<input type="text" class="form-control" id="name" name="name" placeholder="Password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Password'">
+						</div>
+						<div class="col-md-12 form-group">
+							<div class="creat_account">
+								<input type="checkbox" id="f-option2" name="selector">
+								<label for="f-option2">Nhớ mật khẩu</label>
+							</div>
+						</div>
+						<div class="col-md-12 form-group">
+							<button type="submit" value="submit" class="button button-login w-100">Đăng nhập</button>
+							<a href="#">Quên mật khẩu?</a>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!--================End Login Box Area =================-->
+<style>
+	.img-cover {
+		width: 100%;
+		height: 100%;
+		object-fit: cover;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 0;
+	}
+
+	.loginn{
+		position: relative; /* Đảm bảo hover có thể định vị */
+		z-index: 1; /* Đặt z-index cao hơn để nằm trên hình ảnh */
+		margin-top: -200px; /* Dịch div hover xuống 30px */
+	}
+
+
+</style>

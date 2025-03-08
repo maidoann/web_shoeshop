@@ -26,7 +26,7 @@ namespace MQDD_SHOESHOP_V1.Controllers
             if (pageSize < 1) pageSize = 5; // Đảm bảo pageSize không âm
 
             // Tổng số bản ghi
-            var totalItems = await _context.Products.CountAsync();
+            var totalItems = await _context.Products.Where(p => !p.Deleted).CountAsync();
 
             // Lấy danh sách sản phẩm theo trang, bao gồm các mối quan hệ
             var products = await _context.Products

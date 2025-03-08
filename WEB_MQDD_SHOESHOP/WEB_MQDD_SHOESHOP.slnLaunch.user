@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "WEB_MQDD_SHOESHOP\\WEB_MQDD_SHOESHOP.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WEB_MQDD_SHOESHOP_API\\WEB_MQDD_SHOESHOP_API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

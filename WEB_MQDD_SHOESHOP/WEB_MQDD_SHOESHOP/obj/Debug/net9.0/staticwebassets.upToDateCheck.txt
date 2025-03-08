@@ -1,139 +1,577 @@
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\instagram.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\marker-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column3.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushBash.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\demo.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\vector.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column4.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCSharp.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\search.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\demo.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-stop.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\twitter-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ruler-pencil.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\trash.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layers.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreDjango.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\index.html
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\comments.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\google.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pin2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-slider-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-record.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\joomla.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\na.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\infinite.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\mouse-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\widget.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\comment.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\face-smile.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_blank_canvas_3rbb.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\plugins.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\fonts\fontawesome-webfont.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\back-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\announcement.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\summernote\summernote-lite.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-open.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shopping-cart.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\align-center.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-window.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\line-double.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\owl-carousel\owl.carousel.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\kaiadmin\favicon.ico
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\facebook.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shift-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\drupal.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_no_data_qbuo.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shield.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreDefault.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\power-off.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\save.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\plugins.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\world.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\contact.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\thumb-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\headphone-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-center-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeDefault.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-thumb.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column4-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid3.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\link.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\view-list-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\readme.txt
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\car.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-right.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\kaiadmin.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\tag.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\view-list.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\timer.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\bootstrap.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\microphone-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\stamp.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\truck.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bar-chart-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreEmacs.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\rss-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\wallet.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\kaiadmin.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\gallery.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid4.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\info-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\rss.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pencil.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\uppercase.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\fonts.min.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_not_found_60pq.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\music-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\jsfiddle.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-play.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\jquery.form.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\sweetalert\sweetalert.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\align-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-none.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shopping-cart-full.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-line-solid.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-default-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shift-left.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\chart-circle\circles.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCpp.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-right.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\flag.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\notepad.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\align-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPython.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ink-pen.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\split-v.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\more-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\linkedin.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pinterest-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeEmacs.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushGroovy.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\themify-icons.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\setting-demo.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\fullscreen.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jquery.validate\jquery.validate.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\star.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\core\popper.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\bootstrap-toggle\bootstrap-toggle.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\fullcalendar\fullcalendar.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\yahoo.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\fonts\fontawesome\fa-brands-400.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\harddrives.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-btn-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shAutoloader.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\text.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-placeholder.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\help-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\dashboard.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\filter.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJScript.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\help.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\location-pin.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column3-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pinterest.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\sharethis-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-left.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\demo.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\themify-favicon-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\logoproduct3.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\wheelchair.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\panel.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-v.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\fonts\FontAwesome.otf
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\loop.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\ie7\ie7.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\book.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreRDark.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shLegacy.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\id-badge.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeMDUltra.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\unlock.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\gmaps\gmaps.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\tablet.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-right-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\datepicker\bootstrap-datetimepicker.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\line-dashed.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\share.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\twitter.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrows-vertical.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\lock.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreMidnight.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\fontawesome\css\all.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-down.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\palette.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushDiff.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\line-dotted.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJavaFX.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\home.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid4-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPerl.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCore.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\kaiadmin.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pie-chart.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\heart-broken.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\spray.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\crown.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\js\custom.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\trello.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-separated.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\reload.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\core\bootstrap.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pin-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushErlang.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-list.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shift-right-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hummer.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\split-v-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-drag.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-full.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\archive.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid3-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\skrollr.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jquery.magnific-popup\jquery.magnific-popup.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bell.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\microphone.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\cut.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\gift.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeMidnight.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\vimeo.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bar-chart.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-btn-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\back-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\cloud-down.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\tumblr-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\js\jquery-1.11.0.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\stats-down.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\new-window.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\nice-select\jquery.nice-select.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushSass.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\moment\moment.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\close.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\list.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\fontawesome\bootstrap.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-center.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\kaiadmin.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\map-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-min.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-2.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jquery-scrollbar\jquery.scrollbar.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\medall-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\printer.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\bootstrap-tagsinput\bootstrap-tagsinput.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrows-corner.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-backward.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ticket.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreEclipse.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\eraser.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\examples\logo2.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\datatables\datatables.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\themify-favicon.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\mobile.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\clipboard.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\alert.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\chart.js\chart.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\zoom-out.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\bootstrap\bootstrap.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\split-h.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreFadeToGrey.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\favicon.ico
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\zip.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shortcode.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\kaiadmin\logo_light.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\reddit.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-right.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jsvectormap\jsvectormap.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column2-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\dropbox.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\dropbox-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\jquery.validate.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\css\site.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\quote-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\apple.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\medall.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\more.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeEclipse.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\game.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushDelphi.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\info.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-down.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\user.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-skip-forward.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layers-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\microsoft.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\list.js\list.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\menu-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shCore.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\wand.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bolt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPhp.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\window.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\webfont\webfont.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\briefcase.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\face-sad.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\github.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-stop.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\nouislider\nouislider.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\volume.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\thumb-down.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\logoproduct.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bolt-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_sign_in_e6hj.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\support.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\write.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\cup.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\fonts.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_Taken_if77.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\css\plugins.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\minus.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\video-camera.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\css\normalize.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPlain.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ruler-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\plus.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-thumb-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_empty_xct9.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\view-grid.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-separated.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPowerShell.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_upgrade_06a0.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\microsoft-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrows-horizontal.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\examples\logo1.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\js\site.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\cloud-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-forward.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\comments-smiley.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\folder.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-top-right.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\examples\logoinvoice.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\setting-demo2.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-left.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\examples\logo.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\brush-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\settings.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreMDUltra.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\stats-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\exchange-vertical.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\html5.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\eye.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\demo-files\demo.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\themify-logo.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\share-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pencil-alt2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\direction-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\harddrive.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\visa.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-v.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\tumblr.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\time.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\css3.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\signal.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\alarm-clock.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_update_uxn2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\css\font-awesome.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\video-clapper.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\heart.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\email.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\money.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_Hello_qnas.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pencil-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-eject.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\android.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jsvectormap\world.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\js\jquery.nav.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\ie7\ie7.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bookmark-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\wordpress.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\image.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\jquery.sparkline\jquery.sparkline.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\paint-roller.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\download.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushRuby.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\cloud.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushScala.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\sortable\sortable.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\select2\select2.full.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\fonts\fontawesome\fa-solid-900.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\align-justify.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bookmark.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\thought.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-post.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-shuffle.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-large-image.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJava.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\smallcap.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\credit-card.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\soundcloud.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-merged.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\jquery.ajaxchimp.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\widget-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeFadeToGrey.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\import.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\flag-alt-2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-up.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\menu.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\key.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\direction.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\bootstrap\bootstrap.bundle.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-down.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-right.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_creative_team_r90h.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\owl-carousel\owl.theme.default.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\save-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\youtube.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\fonts\fontawesome\fa-regular-400.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\nice-select\nice-select.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\mouse.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\bootstrap-notify\bootstrap-notify.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-column2.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\map.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\flags\readme.txt
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\headphone.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-default.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\server.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\flickr.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\kaiadmin\favicon.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\paint-bucket.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2-thumb.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\fonts\themify.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\music.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\sharethis.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\sticky-sidebar\sticky-sidebar.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\zoom-in.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\linux.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\bag.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\unlink.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-pause.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushVb.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pulse.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\location-arrow.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-slider.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\stack-overflow.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushXml.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\camera.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\vimeo-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\light-bulb.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeDjango.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-right.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay-alt-2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\target.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\Themify IconFonts 5-23-2014.json
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_tabs_jf82.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\flag-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\export.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\kaiadmin\icon.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushAppleScript.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\linericon\style.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\calendar.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\file.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\logoproduct2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\agenda.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\css\main.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCss.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\control-skip-backward.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ruler.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\js\main.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\rocket.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\core\jquery-3.7.1.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-full.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\comment-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-down.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\brush.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\check-box.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\files.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\magnet.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\css\main.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\jquery\jquery-3.2.1.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\pin.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\owl-carousel\owl.carousel.min.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\Italic.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\check.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\plug.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\widgetized.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-left-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\slice.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-center.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushColdFusion.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\package.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\marker.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\index.html
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\plugin\dropzone\dropzone.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\owl-carousel\owl.carousel.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shine.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\angle-down.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-top-left.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\mail-script.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\underline.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\envelope.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\basketball.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\shift-left-alt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\skype.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\paragraph.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\anchor.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushSql.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\desktop.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\dribbble.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\receipt.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-left.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\js\kaiadmin.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\flickr-alt.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\kaiadmin\logo_dark.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeRDark.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\nouislider\nouislider.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\list-ol.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\upload.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\blackboard.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushAS3.js
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\clip.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\fontawesome\bootstrap.bundle.min.js
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\ruler-alt-2.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\vendors\themify-icons\SVG\quote-left.svg
 C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets\img\undraw\undraw_page_not_found_su7k.svg
+C:\Users\maido\OneDrive\Máy tính\MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\WEB_MQDD_SHOESHOP\wwwroot\assets_2\css\style.css
 wwwroot\assets\css\bootstrap.min.css
 wwwroot\assets\css\demo.css
 wwwroot\assets\css\demo.css.map
@@ -537,20 +975,622 @@ wwwroot\assets\js\plugin\sweetalert\sweetalert.min.js
 wwwroot\assets\js\plugin\webfont\webfont.min.js
 wwwroot\assets\js\setting-demo.js
 wwwroot\assets\js\setting-demo2.js
+wwwroot\assets_2\Aroma Shop-doc\css\font-awesome.min.css
+wwwroot\assets_2\Aroma Shop-doc\css\main.css
+wwwroot\assets_2\Aroma Shop-doc\css\normalize.min.css
+wwwroot\assets_2\Aroma Shop-doc\fonts\FontAwesome.otf
+wwwroot\assets_2\Aroma Shop-doc\fonts\fontawesome-webfont.eot
+wwwroot\assets_2\Aroma Shop-doc\fonts\fontawesome-webfont.svg
+wwwroot\assets_2\Aroma Shop-doc\fonts\fontawesome-webfont.ttf
+wwwroot\assets_2\Aroma Shop-doc\fonts\fontawesome-webfont.woff
+wwwroot\assets_2\Aroma Shop-doc\img\logo.png
+wwwroot\assets_2\Aroma Shop-doc\img\Thumbs.db
+wwwroot\assets_2\Aroma Shop-doc\index.html
+wwwroot\assets_2\Aroma Shop-doc\js\custom.js
+wwwroot\assets_2\Aroma Shop-doc\js\jquery.nav.js
+wwwroot\assets_2\Aroma Shop-doc\js\jquery-1.11.0.min.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shAutoloader.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushAppleScript.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushAS3.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushBash.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushColdFusion.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCpp.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCSharp.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushCss.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushDelphi.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushDiff.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushErlang.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushGroovy.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJava.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJavaFX.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushJScript.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPerl.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPlain.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPowerShell.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPython.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushPhp.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushRuby.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushSass.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushScala.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushSql.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushVb.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shBrushXml.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shCore.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\scripts\shLegacy.js
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCore.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreDefault.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreDjango.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreEclipse.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreEmacs.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreFadeToGrey.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreMDUltra.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreMidnight.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shCoreRDark.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeDefault.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeDjango.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeEclipse.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeEmacs.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeFadeToGrey.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeMDUltra.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeMidnight.css
+wwwroot\assets_2\Aroma Shop-doc\syntax-highlighter\styles\shThemeRDark.css
+wwwroot\assets_2\css\main.css
+wwwroot\assets_2\css\style.css
+wwwroot\assets_2\img\blog\add.jpg
+wwwroot\assets_2\img\blog\author.png
+wwwroot\assets_2\img\blog\blog1.png
+wwwroot\assets_2\img\blog\blog2.png
+wwwroot\assets_2\img\blog\blog3.png
+wwwroot\assets_2\img\blog\c1.jpg
+wwwroot\assets_2\img\blog\c2.jpg
+wwwroot\assets_2\img\blog\c3.jpg
+wwwroot\assets_2\img\blog\c4.jpg
+wwwroot\assets_2\img\blog\c5.jpg
+wwwroot\assets_2\img\blog\c6.jpg
+wwwroot\assets_2\img\blog\cat-post\cat-post-1.jpg
+wwwroot\assets_2\img\blog\cat-post\cat-post-2.jpg
+wwwroot\assets_2\img\blog\cat-post\cat-post-3.jpg
+wwwroot\assets_2\img\blog\causes\causes-1.jpg
+wwwroot\assets_2\img\blog\causes\causes-2.jpg
+wwwroot\assets_2\img\blog\causes\causes-3.jpg
+wwwroot\assets_2\img\blog\feature-img1.jpg
+wwwroot\assets_2\img\blog\latest-post\l-post-1.jpg
+wwwroot\assets_2\img\blog\latest-post\l-post-2.jpg
+wwwroot\assets_2\img\blog\latest-post\l-post-3.jpg
+wwwroot\assets_2\img\blog\latest-post\l-post-4.jpg
+wwwroot\assets_2\img\blog\main-blog\m-blog-1.jpg
+wwwroot\assets_2\img\blog\main-blog\m-blog-2.jpg
+wwwroot\assets_2\img\blog\main-blog\m-blog-3.jpg
+wwwroot\assets_2\img\blog\main-blog\m-blog-4.jpg
+wwwroot\assets_2\img\blog\main-blog\m-blog-5.jpg
+wwwroot\assets_2\img\blog\next.jpg
+wwwroot\assets_2\img\blog\popular-post\post1.jpg
+wwwroot\assets_2\img\blog\popular-post\post2.jpg
+wwwroot\assets_2\img\blog\popular-post\post3.jpg
+wwwroot\assets_2\img\blog\popular-post\post4.jpg
+wwwroot\assets_2\img\blog\post-img1.jpg
+wwwroot\assets_2\img\blog\post-img2.jpg
+wwwroot\assets_2\img\blog\prev.jpg
+wwwroot\assets_2\img\cart.jpg
+wwwroot\assets_2\img\cart\cart1.png
+wwwroot\assets_2\img\cart\cart2.png
+wwwroot\assets_2\img\cart\cart3.png
+wwwroot\assets_2\img\category\c1.jpg
+wwwroot\assets_2\img\category\c2.jpg
+wwwroot\assets_2\img\category\c3.jpg
+wwwroot\assets_2\img\category\c4.jpg
+wwwroot\assets_2\img\category\c5.jpg
+wwwroot\assets_2\img\category\s-p1.jpg
+wwwroot\assets_2\img\Fevicon.png
+wwwroot\assets_2\img\gallery\r1.jpg
+wwwroot\assets_2\img\gallery\r2.jpg
+wwwroot\assets_2\img\gallery\r3.jpg
+wwwroot\assets_2\img\gallery\r5.jpg
+wwwroot\assets_2\img\gallery\r7.jpg
+wwwroot\assets_2\img\gallery\r8.jpg
+wwwroot\assets_2\img\home\hero-banner.jpg
+wwwroot\assets_2\img\home\hero-banner.png
+wwwroot\assets_2\img\home\hero-banner1.jpg
+wwwroot\assets_2\img\home\hero-banner2.jpg
+wwwroot\assets_2\img\home\hero-banner3.jpg
+wwwroot\assets_2\img\home\hero-banner4.jpg
+wwwroot\assets_2\img\home\hero-slide1.png
+wwwroot\assets_2\img\home\hero-slide2.png
+wwwroot\assets_2\img\home\hero-slide3.png
+wwwroot\assets_2\img\home\hero-slide33.png
+wwwroot\assets_2\img\home\parallax-bg.png
+wwwroot\assets_2\img\instagram\Image-01.jpg
+wwwroot\assets_2\img\instagram\Image-02.jpg
+wwwroot\assets_2\img\instagram\Image-03.jpg
+wwwroot\assets_2\img\instagram\Image-04.jpg
+wwwroot\assets_2\img\instagram\Image-05.jpg
+wwwroot\assets_2\img\instagram\Image-06.jpg
+wwwroot\assets_2\img\instagram\Image-07.jpg
+wwwroot\assets_2\img\instagram\Image-08.jpg
+wwwroot\assets_2\img\instagram\ins-1.jpg
+wwwroot\assets_2\img\instagram\ins-2.jpg
+wwwroot\assets_2\img\instagram\ins-3.jpg
+wwwroot\assets_2\img\instagram\ins-4.jpg
+wwwroot\assets_2\img\instagram\ins-5.jpg
+wwwroot\assets_2\img\instagram\ins-6.jpg
+wwwroot\assets_2\img\logo.png
+wwwroot\assets_2\img\login.jpg
+wwwroot\assets_2\img\product\card.jpg
+wwwroot\assets_2\img\product\product1.png
+wwwroot\assets_2\img\product\product2.png
+wwwroot\assets_2\img\product\product3.png
+wwwroot\assets_2\img\product\product4.png
+wwwroot\assets_2\img\product\product5.png
+wwwroot\assets_2\img\product\product6.png
+wwwroot\assets_2\img\product\product7.png
+wwwroot\assets_2\img\product\product8.png
+wwwroot\assets_2\img\product\product-sm-1.png
+wwwroot\assets_2\img\product\product-sm-2.png
+wwwroot\assets_2\img\product\product-sm-3.png
+wwwroot\assets_2\img\product\product-sm-4.png
+wwwroot\assets_2\img\product\product-sm-5.png
+wwwroot\assets_2\img\product\product-sm-6.png
+wwwroot\assets_2\img\product\product-sm-7.png
+wwwroot\assets_2\img\product\product-sm-8.png
+wwwroot\assets_2\img\product\product-sm-9.png
+wwwroot\assets_2\img\product\review-1.png
+wwwroot\assets_2\img\product\review-2.png
+wwwroot\assets_2\img\product\review-3.png
+wwwroot\assets_2\img\r1.jpg
+wwwroot\assets_2\img\r10.jpg
+wwwroot\assets_2\img\r11.jpg
+wwwroot\assets_2\img\r12.jpg
+wwwroot\assets_2\img\r2.jpg
+wwwroot\assets_2\img\r3.jpg
+wwwroot\assets_2\img\r4.jpg
+wwwroot\assets_2\img\r5.jpg
+wwwroot\assets_2\img\r6.jpg
+wwwroot\assets_2\img\r7.jpg
+wwwroot\assets_2\img\r8.jpg
+wwwroot\assets_2\img\r9.jpg
+wwwroot\assets_2\img\Thumbs.db
+wwwroot\assets_2\js\main.js
+wwwroot\assets_2\scss\main.scss
+wwwroot\assets_2\scss\style.scss
+wwwroot\assets_2\scss\theme\_blog.scss
+wwwroot\assets_2\scss\theme\_btn.scss
+wwwroot\assets_2\scss\theme\_cart.scss
+wwwroot\assets_2\scss\theme\_category.scss
+wwwroot\assets_2\scss\theme\_confirmation.scss
+wwwroot\assets_2\scss\theme\_contact.scss
+wwwroot\assets_2\scss\theme\_checkout.scss
+wwwroot\assets_2\scss\theme\_footer.scss
+wwwroot\assets_2\scss\theme\_header.scss
+wwwroot\assets_2\scss\theme\_home.scss
+wwwroot\assets_2\scss\theme\_instagram.scss
+wwwroot\assets_2\scss\theme\_login.scss
+wwwroot\assets_2\scss\theme\_mixins.scss
+wwwroot\assets_2\scss\theme\_register.scss
+wwwroot\assets_2\scss\theme\_reset.scss
+wwwroot\assets_2\scss\theme\_responsive.scss
+wwwroot\assets_2\scss\theme\_section-intro.scss
+wwwroot\assets_2\scss\theme\_single-product.scss
+wwwroot\assets_2\scss\theme\_tracking.scss
+wwwroot\assets_2\scss\theme\_variables.scss
+wwwroot\assets_2\vendors\bootstrap\bootstrap.bundle.min.js
+wwwroot\assets_2\vendors\bootstrap\bootstrap.min.css
+wwwroot\assets_2\vendors\contact.js
+wwwroot\assets_2\vendors\fontawesome\bootstrap.bundle.min.js
+wwwroot\assets_2\vendors\fontawesome\bootstrap.min.css
+wwwroot\assets_2\vendors\fontawesome\css\all.min.css
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-brands-400.eot
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-brands-400.ttf
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-brands-400.woff
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-brands-400.woff2
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-regular-400.eot
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-regular-400.ttf
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-regular-400.woff
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-regular-400.woff2
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-solid-900.eot
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-solid-900.ttf
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-solid-900.woff
+wwwroot\assets_2\vendors\fontawesome\webfonts\fa-solid-900.woff2
+wwwroot\assets_2\vendors\jquery.ajaxchimp.min.js
+wwwroot\assets_2\vendors\jquery.form.js
+wwwroot\assets_2\vendors\jquery.validate.min.js
+wwwroot\assets_2\vendors\jquery\jquery-3.2.1.min.js
+wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.eot
+wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.svg
+wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.ttf
+wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.woff
+wwwroot\assets_2\vendors\linericon\fonts\Linearicons-Free.woff2
+wwwroot\assets_2\vendors\linericon\style.css
+wwwroot\assets_2\vendors\mail-script.js
+wwwroot\assets_2\vendors\nice-select\jquery.nice-select.min.js
+wwwroot\assets_2\vendors\nice-select\nice-select.css
+wwwroot\assets_2\vendors\nouislider\nouislider.min.css
+wwwroot\assets_2\vendors\nouislider\nouislider.min.js
+wwwroot\assets_2\vendors\owl-carousel\owl.carousel.min.css
+wwwroot\assets_2\vendors\owl-carousel\owl.carousel.min.js
+wwwroot\assets_2\vendors\owl-carousel\owl.theme.default.min.css
+wwwroot\assets_2\vendors\skrollr.min.js
+wwwroot\assets_2\vendors\themify-icons\demo-files\demo.css
+wwwroot\assets_2\vendors\themify-icons\fonts\themify.eot
+wwwroot\assets_2\vendors\themify-icons\fonts\themify.svg
+wwwroot\assets_2\vendors\themify-icons\fonts\themify.ttf
+wwwroot\assets_2\vendors\themify-icons\fonts\themify.woff
+wwwroot\assets_2\vendors\themify-icons\ie7\ie7.css
+wwwroot\assets_2\vendors\themify-icons\ie7\ie7.js
+wwwroot\assets_2\vendors\themify-icons\index.html
+wwwroot\assets_2\vendors\themify-icons\readme.txt
+wwwroot\assets_2\vendors\themify-icons\SVG\agenda.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\alarm-clock.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\alert.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\align-center.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\align-justify.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\align-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\align-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\anchor.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\android.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\announcement.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-double-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\angle-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\apple.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\archive.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-circle-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrows-corner.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrows-horizontal.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrows-vertical.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-top-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-top-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\arrow-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\back-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\back-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bag.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bar-chart.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bar-chart-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\basketball.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bell.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\blackboard.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bolt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bolt-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\book.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bookmark.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\bookmark-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\briefcase.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\brush.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\brush-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\calendar.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\camera.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\car.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\clip.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\clipboard.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\close.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\cloud.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\cloud-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\cloud-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\comment.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\comment-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\comments.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\comments-smiley.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-backward.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-eject.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-forward.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-pause.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-play.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-record.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-shuffle.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-skip-backward.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-skip-forward.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\control-stop.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\credit-card.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\crown.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\css3.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\cup.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\cut.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\check.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\check-box.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\dashboard.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\desktop.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\direction.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\direction-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\download.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\dribbble.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\dropbox.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\dropbox-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\drupal.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\email.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\envelope.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\eraser.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\exchange-vertical.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\export.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\eye.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\facebook.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\face-sad.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\face-smile.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\file.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\files.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\filter.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\flag.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\flag-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\flag-alt-2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\flickr.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\flickr-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\folder.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\fullscreen.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\gallery.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\game.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\google.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\gift.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\github.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-drag.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-open.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-point-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hand-stop.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\harddrive.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\harddrives.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\headphone.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\headphone-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\heart.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\heart-broken.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\help.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\help-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\home.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\html5.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\hummer.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\id-badge.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\image.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\import.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\infinite.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\info.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\info-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ink-pen.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\instagram.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\Italic.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\joomla.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\jsfiddle.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\key.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layers.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layers-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-list.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-merged.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-accordion-separated.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column2-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column3.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column3-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column4.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-column4-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-btn-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-btn-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-center.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-cta-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid2-thumb.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid3.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid3-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid4.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-grid4-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-line-solid.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-large-image.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-post.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-thumb.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-list-thumb-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-center.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-center-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-left-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-overlay-alt-2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-media-right-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-full.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-separated.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-menu-v.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-placeholder.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-none.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-sidebar-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-slider.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-slider-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-min.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-v.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-tab-window.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-default.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-default-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\layout-width-full.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\light-bulb.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\line-dashed.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\line-dotted.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\line-double.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\link.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\linkedin.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\linux.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\list.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\list-ol.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\location-arrow.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\location-pin.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\lock.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\loop.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\magnet.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\map.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\map-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\marker.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\marker-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\medall.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\medall-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\menu.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\menu-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\microphone.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\microphone-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\microsoft.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\microsoft-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\minus.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\mobile.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\money.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\more.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\more-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\mouse.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\mouse-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\music.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\music-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\na.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\new-window.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\notepad.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\package.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\paint-bucket.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\paint-roller.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\palette.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\panel.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\paragraph.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pencil.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pencil-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pencil-alt2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pie-chart.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pin.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pin2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pin-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pinterest.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pinterest-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\plug.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\plus.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\power-off.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\printer.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\pulse.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\quote-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\quote-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\receipt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\reddit.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\reload.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\rocket.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\rss.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\rss-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ruler.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ruler-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ruler-alt-2.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ruler-pencil.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\save.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\save-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\search.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\server.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\settings.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\share.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\share-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\sharethis.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\sharethis-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shield.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shift-left.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shift-left-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shift-right.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shift-right-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shine.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shopping-cart.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shopping-cart-full.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\shortcode.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\signal.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\skype.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\slice.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\smallcap.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\soundcloud.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\split-h.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\split-v.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\split-v-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\spray.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\stack-overflow.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\stamp.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\star.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\stats-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\stats-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\support.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\tablet.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\tag.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\target.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\text.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\ticket.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\time.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\timer.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\tumblr.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\tumblr-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\twitter.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\twitter-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\themify-favicon.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\themify-favicon-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\themify-logo.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\thought.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\thumb-down.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\thumb-up.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\trash.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\trello.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\truck.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\underline.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\unlink.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\unlock.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\upload.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\uppercase.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\user.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\vector.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\video-camera.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\video-clapper.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\view-grid.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\view-list.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\view-list-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\vimeo.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\vimeo-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\volume.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\wallet.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\wand.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\wheelchair.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\widget.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\widget-alt.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\widgetized.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\window.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\wordpress.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\world.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\write.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\yahoo.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\youtube.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\zip.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\zoom-in.svg
+wwwroot\assets_2\vendors\themify-icons\SVG\zoom-out.svg
+wwwroot\assets_2\vendors\themify-icons\Themify IconFonts 5-23-2014.json
+wwwroot\assets_2\vendors\themify-icons\themify-icons.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
-wwwroot\images\1d34ea44-0580-4020-bc79-b3dcb5ff3f9d_anime-girl-cityscape-short-hair-4k-wallpaper-uhdpaper.com-220@3@a.jpg
+wwwroot\images\0bd3d9bc-1d5b-491b-9533-8572cfcda89c_z4770526330081_e13fd722d0de709e5de725cad4bb88e1-2048x2048.jpg
 wwwroot\images\25c1e7b2-5049-4d8e-82e1-3074f1f5a720_dope-sukuna-pink-5120x2880-16935.png
-wwwroot\images\2d171b6d-5ad7-4e54-ba67-6c18da7f43de_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg
-wwwroot\images\2e7fd912-f812-4f0c-8e6c-3689d8833db9_snake-animal-digital-art-4k-wallpaper-uhdpaper.com-239@3@a.jpg
+wwwroot\images\2f5d1722-5a85-4e07-8b29-77825a03d687_vans-knu-skool-sorbet-pastel-pink.jpg
 wwwroot\images\4d98bd30-7804-442a-a849-99b809bbe2e5_cat-pilot-4k-wallpaper-uhdpaper.com-675@0@j.jpg
-wwwroot\images\69a25dfd-e518-40ff-9dc0-f7a6079e2118_cat-cute-bow-tie-uhdpaper.com-4K-8.1491.jpg
+wwwroot\images\7089d049-fba5-4b86-9a24-df7c2d9f0a50_z5244270699043_594b5bdf953c53f4d63930a7be9affb0-2048x2048.jpg
+wwwroot\images\73f48606-3a00-4dd1-b45b-48c26640d528_z4770526697736_4194c8eb6d624f6da7027ea41bc88e71-2048x2048.jpg
 wwwroot\images\7c357e68-c4d6-403a-b03f-a19a2942922c_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg
-wwwroot\images\7c65521e-3b9c-4207-a92e-c9198b43afc2_cute-cuddling-birds-4k-wallpaper-uhdpaper.com-767@0@g.jpg
-wwwroot\images\89ed2974-46ca-41b1-ada7-6c395ada412f_anime-girl-relaxing-6700x3559-9250.jpg
+wwwroot\images\83f3d83b-be1e-4c36-a993-37b6248bf0fc_vans-knu-skool-denim-black-1.jpg
+wwwroot\images\87b43a03-c4c9-4d8b-bcda-9d485b2ac59a_z4767101611550_10338bb3062313a0a48d561194a22042-2048x2048.jpg
 wwwroot\images\900c3d5e-54f4-4314-bfbb-67ea81281a9c_anime-girl-brunette-flowers-4k-wallpaper-uhdpaper.com-228@0@k.jpg
-wwwroot\images\9831414b-7ef7-4a86-907a-2fe74c0f7567_fallow-deer-squirrel-bird-trees-forest-autumn-5k-8k-7087x4724-2414.jpg
-wwwroot\images\e71943b0-2b50-48a6-81ea-da8c5b1e2145_anime-girl-rain-4k-wallpaper-uhdpaper.com-252@0@j.jpg
+wwwroot\images\95b5eeb0-7291-4163-83d6-44b75467e4cd_z4766643327932_862168b025eaa874a0f43f0fe04be9e0-2048x2048.jpg
+wwwroot\images\ad6924ab-75c9-4198-8897-dac30947ee38_mlb-chunky-liner-mid-ny-denim-blue.jpg
+wwwroot\images\bc66f5bb-bceb-4c8b-bc28-e259ba32dc8f_converse-run-star-trainer-egret-black.jpg
+wwwroot\images\d4839157-540d-473c-8d88-46db7d4b3986_mlb-chunky-liner-denim-mono-sl-new-york-yankees-gold-2.jpg
+wwwroot\images\d7bb64f8-46a1-44b1-bc1f-e9fcc2ac7d3f_z4770809067278_b3aa042b5d4f9c9eee7fc5e4b450a7f0-2048x2048.jpg
+wwwroot\images\e451add0-0ff0-447d-80eb-02178c17b4d6_converse-chuck-70-x-mas-gingerbread-knit-sock-1.jpg
+wwwroot\images\f726d71b-c5d0-4618-bd35-cf513b7efcb0_z4766642959621_e2c7605bb53782417850840b604852e4-2048x2048.jpg
 wwwroot\images\faeba26b-8e7d-4be1-8b84-817b0f5e9bdc_beautiful-anime-girl-blue-eyes-4k-wallpaper-uhdpaper.com-714@0@j.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css

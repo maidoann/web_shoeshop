@@ -32,4 +32,8 @@ public partial class Product
     public virtual ICollection<ProductImage> ProductImages { get; set; } = new List<ProductImage>();
 
     public virtual ICollection<Wishlist> Wishlists { get; set; } = new List<Wishlist>();
+    public class ApiResponse
+    {
+        public List<Product> Data { get; set; }
+    }
 }

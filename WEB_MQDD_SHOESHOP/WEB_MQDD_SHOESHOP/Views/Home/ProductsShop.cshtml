@@ -1,0 +1,428 @@
+﻿@model List<WEB_MQDD_SHOESHOP.Models.ProductFullViewModel>
+@{
+    Layout = "~/Views/Shared/_CustomerLayout.cshtml";
+}
+
+@{
+    var brandDictionary = Model != null
+        ? Model
+            .GroupBy(p => p.BrandId)
+            .ToDictionary(
+                g => g.Key,
+                g => g.First().BrandName
+            )
+        : new Dictionary<int?, string>();
+
+    var categoryDictionary = Model != null
+        ? Model
+            .GroupBy(p => p.ProductCategoryId)
+            .ToDictionary(
+                g => g.Key,
+                g => g.First().CategoryName
+            )
+        : new Dictionary<int?, string>();
+
+    int pageSize = 6; // Số sản phẩm mỗi trang
+    int totalItems = Model?.Count ?? 0;
+    int totalPages = (int)Math.Ceiling((double)totalItems / pageSize);
+}
+
+<!-- CSS cho phân trang và lọc -->
+<style>
+    .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    }
+
+    .pagination button {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0 5px;
+    background-color: #ffffff;
+    color: #007bff;
+    border: 1px solid #007bff;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    }
+
+    .pagination button:hover {
+    background-color: #384AEB;
+    color: white;
+    }
+
+    .pagination button.active {
+    background-color: #384AEB;
+    color: white;
+    border: none;
+    }
+
+    .pagination button.disabled {
+    background-color: #ffffff;
+    color: #cccccc;
+    border: 1px solid #cccccc;
+    pointer-events: none;
+    }
+
+    .product-item {
+    display: none; /* Ẩn tất cả sản phẩm ban đầu */
+    }
+
+    .product-item.active {
+    display: block; /* Hiển thị sản phẩm của trang hiện tại */
+    }
+</style>
+
+<!-- ================ Category Section Start ================= -->
+<section class="section-margin--small mb-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-3 col-lg-4 col-md-5">
+                <div class="sidebar-categories">
+                    <div class="head">Loại sản phẩm</div>
+                    <ul class="main-categories">
+                        <li class="common-filter">
+                            <form action="#">
+                                <ul>
+                                    @foreach (var category in categoryDictionary)
+                                    {
+                                        <li class="filter-list">
+                                            <input class="pixel-radio" type="radio" id="cat_@category.Key" name="category" value="@category.Key">
+                                            <label for="cat_@category.Key">@category.Value<span></span></label>
+                                        </li>
+                                    }
+                                    <li class="filter-list">
+                                        <input class="pixel-radio" type="radio" id="cat_all" name="category" value="" checked>
+                                        <label for="cat_all">All<span></span></label>
+                                    </li>
+                                </ul>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+                <div class="sidebar-filter">
+                    <div class="top-filter-head">Hãng sản phẩm</div>
+                    <div class="common-filter">
+                        <div class="head"></div>
+                        <form action="#">
+                            <ul>
+                                @foreach (var brand in brandDictionary)
+                                {
+                                    <li class="filter-list">
+                                        <input class="pixel-radio" type="radio" id="brand_@brand.Key" name="brand" value="@brand.Key">
+                                        <label for="brand_@brand.Key">@brand.Value<span></span></label>
+                                    </li>
+                                }
+                                <li class="filter-list">
+                                    <input class="pixel-radio" type="radio" id="brand_all" name="brand" value="" checked>
+                                    <label for="brand_all">All <span></span></label>
+                                </li>
+                            </ul>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-9 col-lg-8 col-md-7">
+                <!-- Start Filter Bar -->
+                <div class="filter-bar d-flex flex-wrap align-items-center">
+                    <div>
+                        <div class="input-group filter-bar-search">
+                            <input type="text" id="search-input" placeholder="Tìm kiếm theo tên">
+                            <div class="input-group-append">
+                                <button type="button" id="search-button"><i class="ti-search"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Filter Bar -->
+                <!-- Start Best Seller -->
+                <section class="lattest-product-area pb-40 category-list">
+                    <div class="row" id="product-container">
+                        @for (int i = 0; i < (Model?.Count ?? 0); i++)
+                        {
+                            var product = Model[i];
+                            <div class="col-md-6 col-lg-4 product-item" data-index="@i" data-brand="@product.BrandId" data-category="@product.ProductCategoryId" data-name="@product.Name.ToLower()">
+                                <div class="card text-center card-product">
+                                    <div class="card-product__img">
+                                        <img class="card-img" src="@product.ImagePath" alt="">
+                                        <ul class="card-product__imgOverlay">
+                                            <li><button><i class="ti-search"></i></button></li>
+                                            <li><button><i class="ti-shopping-cart"></i></button></li>
+                                            <li><button><i class="ti-heart"></i></button></li>
+                                        </ul>
+                                    </div>
+                                    <div class="card-body">
+                                        <p>@product.BrandName</p>
+                                        <h4 class="card-product__title"><a href="ProductDetail/@product.Id">@product.Name</a></h4>
+                                        <p class="card-product__price">@(product.Price?.ToString("N0") ?? "N/A")</p>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </section>
+                <!-- Pagination -->
+                <div class="pagination" id="pagination">
+                    <button id="prev" class="disabled">«</button>
+                    @for (int i = 1; i <= totalPages; i++)
+                    {
+                        <button class="@(i == 1 ? "active" : "")" data-page="@i">@i</button>
+                    }
+                    <button id="next" class="@(totalPages <= 1 ? "disabled" : "")">»</button>
+                </div>
+                <!-- End Best Seller -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ Category Section End ================= -->
+<!-- ================ Top Product Area Start ================= -->
+<section class="related-product-area">
+    <div class="container">
+        <div class="section-intro pb-60px">
+            <p>Popular Item in the market</p>
+            <h2>Top <span class="section-intro__style">Product</span></h2>
+        </div>
+        <div class="row mt-30">
+            <div class="col-sm-6 col-xl-3 mb-4 mb-xl-0">
+                <div class="single-search-product-wrapper">
+                    @{
+                        var j = 0;
+                        foreach(var product in Model)
+                        {
+                            if (j < 3)
+                            {
+                                j++;
+                                <div class="single-search-product d-flex">
+                                    <a href="/Home/ProductDetail/@product.Id"><img src="@product.ImagePath" alt=""></a>
+                                    <div class="desc">
+                                        <a href="/Home/ProductDetail/@product.Id" class="title">@product.Name</a>
+                                        <div class="price">@(product.Price?.ToString("N0") ?? "N/A")</div>
+                                    </div>
+                                </div>
+                            }
+                            else break;
+
+                        }
+                    }
+                    
+                </div>
+            </div>
+            <div class="col-sm-6 col-xl-3 mb-4 mb-xl-0">
+                <div class="single-search-product-wrapper">
+                    @{
+                        var k = 0;
+                        foreach (var product in Model)
+                        {
+                            if (k < 3)
+                            {
+                                k++;
+                                <div class="single-search-product d-flex">
+                                    <a href="/Home/ProductDetail/@product.Id"><img src="@product.ImagePath" alt=""></a>
+                                    <div class="desc">
+                                        <a href="/Home/ProductDetail/@product.Id" class="title">@product.Name</a>
+                                        <div class="price">@(product.Price?.ToString("N0") ?? "N/A")</div>
+                                    </div>
+                                </div>
+                            }
+                            else break;
+
+                        }
+                    }
+                </div>
+            </div>
+            <div class="col-sm-6 col-xl-3 mb-4 mb-xl-0">
+                <div class="single-search-product-wrapper">
+                    @{
+                        var l = 0;
+                        foreach (var product in Model)
+                        {
+                            if (l < 3)
+                            {
+                                l++;
+                                <div class="single-search-product d-flex">
+                                    <a href="/Home/ProductDetail/@product.Id"><img src="@product.ImagePath" alt=""></a>
+                                    <div class="desc">
+                                        <a href="/Home/ProductDetail/@product.Id" class="title">@product.Name</a>
+                                        <div class="price">@(product.Price?.ToString("N0") ?? "N/A")</div>
+                                    </div>
+                                </div>
+                            }
+                            else break;
+
+                        }
+                    }
+                </div>
+            </div>
+            <div class="col-sm-6 col-xl-3 mb-4 mb-xl-0">
+                <div class="single-search-product-wrapper">
+                    @{
+                        var o = 0;
+                        foreach (var product in Model)
+                        {
+                            if (o < 3)
+                            {
+                                o++;
+                                <div class="single-search-product d-flex">
+                                    <a href="/Home/ProductDetail/@product.Id"><img src="@product.ImagePath" alt=""></a>
+                                    <div class="desc">
+                                        <a href="/Home/ProductDetail/@product.Id" class="title">@product.Name</a>
+                                        <div class="price">@(product.Price?.ToString("N0") ?? "N/A")</div>
+                                    </div>
+                                </div>
+                            }
+                            else break;
+
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ Top Product Area End ================= -->
+<!-- ================ Subscribe Section Start ================= -->
+<section class="subscribe-position">
+    <div class="container">
+        <div class="subscribe text-center">
+            <h3 class="subscribe__title">Get Update From Anywhere</h3>
+            <p>Bearing Void gathering light light his eavening unto dont afraid</p>
+            <div id="mc_embed_signup">
+                <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&id=92a4423d01" method="get" class="subscribe-form form-inline mt-5 pt-1">
+                    <div class="form-group ml-sm-auto">
+                        <input class="form-control mb-1" type="email" name="EMAIL" placeholder="Enter your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address '">
+                        <div class="info"></div>
+                    </div>
+                    <button class="button button-subscribe mr-auto mb-1" type="submit">Subscribe Now</button>
+                    <div style="position: absolute; left: -5000px;">
+                        <input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ================ Subscribe Section End ================= -->
+<!-- JavaScript cho phân trang, lọc và tìm kiếm -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const pageSize = @pageSize;
+        const allProducts = document.querySelectorAll(".product-item");
+        let currentPage = 1;
+        let filteredProducts = Array.from(allProducts); // Danh sách sản phẩm sau khi lọc
+
+        function updatePagination() {
+            const totalFilteredItems = filteredProducts.length;
+            const totalFilteredPages = Math.ceil(totalFilteredItems / pageSize);
+
+            // Cập nhật nút phân trang
+            const pagination = document.getElementById("pagination");
+            pagination.innerHTML = ""; // Xóa phân trang cũ
+
+            // Nút Previous
+            const prevButton = document.createElement("button");
+            prevButton.id = "prev";
+            prevButton.textContent = "«";
+            prevButton.classList.toggle("disabled", currentPage === 1);
+            pagination.appendChild(prevButton);
+
+            // Các nút số trang
+            for (let i = 1; i <= totalFilteredPages; i++) {
+                const pageButton = document.createElement("button");
+                pageButton.textContent = i;
+                pageButton.setAttribute("data-page", i);
+                pageButton.classList.toggle("active", i === currentPage);
+                pagination.appendChild(pageButton);
+            }
+
+            // Nút Next
+            const nextButton = document.createElement("button");
+            nextButton.id = "next";
+            nextButton.textContent = "»";
+            nextButton.classList.toggle("disabled", currentPage === totalFilteredPages || totalFilteredPages === 0);
+            pagination.appendChild(nextButton);
+
+            // Gắn sự kiện cho các nút phân trang mới
+            document.querySelectorAll(".pagination button").forEach(button => {
+                button.addEventListener("click", function () {
+                    if (this.id === "prev" && currentPage > 1) {
+                        currentPage--;
+                    } else if (this.id === "next" && currentPage < totalFilteredPages) {
+                        currentPage++;
+                    } else if (this.dataset.page) {
+                        currentPage = parseInt(this.dataset.page);
+                    }
+                    showPage(currentPage);
+                });
+            });
+        }
+
+        function showPage(page) {
+            // Ẩn tất cả sản phẩm
+            allProducts.forEach(product => product.classList.remove("active"));
+
+            // Tính chỉ số bắt đầu và kết thúc
+            const start = (page - 1) * pageSize;
+            const end = Math.min(start + pageSize, filteredProducts.length);
+
+            // Hiển thị sản phẩm của trang hiện tại từ danh sách đã lọc
+            for (let i = start; i < end; i++) {
+                filteredProducts[i].classList.add("active");
+            }
+
+            // Cập nhật trạng thái nút phân trang
+            document.querySelectorAll(".pagination button").forEach(btn => btn.classList.remove("active"));
+            const activeButton = document.querySelector(`.pagination button[data-page="${page}"]`);
+            if (activeButton) activeButton.classList.add("active");
+
+            // Cập nhật nút Previous/Next
+            document.getElementById("prev").classList.toggle("disabled", page === 1);
+            document.getElementById("next").classList.toggle("disabled", page === Math.ceil(filteredProducts.length / pageSize) || filteredProducts.length === 0);
+        }
+
+        function filterProducts() {
+            const selectedBrand = document.querySelector("input[name='brand']:checked")?.value;
+            const selectedCategory = document.querySelector("input[name='category']:checked")?.value;
+            const searchQuery = document.getElementById("search-input").value.toLowerCase().trim();
+
+            // Lọc sản phẩm
+            filteredProducts = Array.from(allProducts).filter(product => {
+                const brandId = product.getAttribute("data-brand");
+                const categoryId = product.getAttribute("data-category");
+                const productName = product.getAttribute("data-name");
+
+                const brandMatch = !selectedBrand || brandId === selectedBrand;
+                const categoryMatch = !selectedCategory || categoryId === selectedCategory;
+                const nameMatch = !searchQuery || productName.includes(searchQuery);
+
+                return brandMatch && categoryMatch && nameMatch;
+            });
+
+            // Reset về trang 1 sau khi lọc
+            currentPage = 1;
+            updatePagination();
+            showPage(currentPage);
+        }
+
+        // Hiển thị trang đầu tiên khi tải
+        updatePagination();
+        showPage(currentPage);
+
+        // Xử lý sự kiện thay đổi bộ lọc brand và category
+        document.querySelectorAll("input[name='brand'], input[name='category']").forEach(input => {
+            input.addEventListener("change", filterProducts);
+        });
+
+        // Xử lý sự kiện tìm kiếm
+        document.getElementById("search-button").addEventListener("click", filterProducts);
+        document.getElementById("search-input").addEventListener("keyup", function (event) {
+            if (event.key === "Enter") {
+                filterProducts();
+            }
+        });
+    });
+</script>
